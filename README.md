@@ -27,7 +27,7 @@ Follow these steps to set up the project on your local machine:
 
 ## Step 1: Clone the Repository
 
-git clone https://github.com/yourusername/car-price-prediction-app.git
+git clone  https://github.com/Ajaygenuinedoubt/Car_Price_Prediction
 
 cd car-price-prediction-app
 
